@@ -2,6 +2,19 @@
 
 # LAB Java | Edge Services
 
+All repos in organization:
+
+https://github.com/IntroToMicroServicesLAB-feign-Gateway
+    - discovery
+    - gateway
+    - student-info-service
+    - grades-data-service
+    - student catalog-service
+    
+   
+   
+
+
 ## Introduction
 
 We have just learned how to use OpenFeign for internal communication between services so let's practice a bit more.
